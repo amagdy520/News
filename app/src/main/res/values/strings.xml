@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="no_news">No News found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_newest_value">newest</string>
+    <string name="settings_section_type_key">section_type</string>
+    <string name="settings_section_type_politics_value">politics</string>
+</resources>
